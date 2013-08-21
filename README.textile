@@ -29,6 +29,14 @@ Ubuntu packages:
 * emacsen-common
 * exuberant-ctags
 
+CentOS Packages
+* yum groupinstall 'Development Tools'
+* texinfo
+* python-setuptools
+* emacs
+* emacs-el
+* ctags-etags
+
 h2. Installation
 
 @git clone git://github.com/alancastro/emacs.git@
